@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "159092871559",
+    "firebase_url": "https://designfirebase-7ddb3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "designfirebase-7ddb3",
+    "storage_bucket": "designfirebase-7ddb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159092871559:android:35da67b7da562479c9c322",
+        "android_client_info": {
+          "package_name": "com.example.design"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkahaMxwlsr0OXUu0GY2xI4S_YpHhJVQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
